@@ -60,5 +60,3 @@ portfolio/
 This project is for personal portfolio use. Feel free to adapt it for your own portfolio.
 
 ---
-
-<p align="center">Made with ♥ in Davao City · University of Mindanao</p
