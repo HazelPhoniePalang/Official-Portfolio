@@ -61,4 +61,4 @@ This project is for personal portfolio use. Feel free to adapt it for your own p
 
 ---
 
-<p align="center">Made with ♥ in Davao City · University of Mindanao</p>
+<p align="center">Made with ♥ in Davao City · University of Mindanao</p
