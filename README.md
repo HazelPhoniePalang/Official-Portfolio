@@ -57,8 +57,14 @@ portfolio/
 
 ## 📄 License
 
+<<<<<<< HEAD
 This project is for personal portfolio use. Feel free to adapt it for your own portfolio.
 
 ---
 
 <p align="center">Made with ♥ in Davao City · University of Mindanao</p>
+=======
+This project is for personal portfolio use.
+
+---
+>>>>>>> af916e191a7a386501f044931f13bd116f1600fc
