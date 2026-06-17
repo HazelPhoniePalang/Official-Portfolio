@@ -47,8 +47,8 @@ portfolio/
     ├── project1.png      # Project screenshots
     ├── project2.png
     ├── project3.png
-    ├── cert-database.jpg # Certificate images
-    └── cert-html-css.jpg
+    ├── databases.png # Certificate images
+    └── html-css.png
 ```
 
 > **Note:** The current version is a single `index.html` file. All CSS and JavaScript are written inline — no build tools or dependencies to install.
@@ -57,14 +57,8 @@ portfolio/
 
 ## 📄 License
 
-<<<<<<< HEAD
 This project is for personal portfolio use. Feel free to adapt it for your own portfolio.
 
 ---
 
-<p align="center">Made with ♥ in Davao City · University of Mindanao</p>
-=======
-This project is for personal portfolio use.
-
----
->>>>>>> af916e191a7a386501f044931f13bd116f1600fc
+<p align="center">Made with ♥ · University of Mindanao</p>
