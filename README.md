@@ -57,7 +57,6 @@ portfolio/
 
 ## 📄 License
 
-HEAD
 This project is for personal portfolio use. Feel free to adapt it for your own portfolio.
 
 ---
