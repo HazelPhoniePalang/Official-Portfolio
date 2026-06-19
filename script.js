@@ -158,3 +158,10 @@ window.addEventListener("scroll", () => {
       a.getAttribute("href") === "#" + cur2 ? "var(--accent)" : "";
   });
 });
+
+window.addEventListener("load", function () {
+  setTimeout(function () {
+    const loader = document.getElementById("pageLoader");
+    loader.classList.add("fade-out");
+  }, 500);
+});
