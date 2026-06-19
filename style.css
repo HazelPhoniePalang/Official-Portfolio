@@ -101,7 +101,7 @@ body::before {
   align-items: center;
   z-index: 9999;
   opacity: 1;
-  transition: opacity 0.6s ease-out;
+  transition: opacity 0.8s ease-out;
 }
 
 .page-loader.fade-out {
@@ -115,7 +115,7 @@ body::before {
   border: 3px solid rgba(212, 55, 165, 0.2);
   border-top: 3px solid #ff66bb;
   border-radius: 50%;
-  animation: goldSpin 1s linear infinite;
+  animation: goldSpin 6s linear infinite;
 }
 
 @keyframes goldSpin {
